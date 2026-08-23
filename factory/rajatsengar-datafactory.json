@@ -1,0 +1,15 @@
+{
+	"name": "rajatsengar-datafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1acfdad4-ec18-472d-aa84-8286bb2c25d4",
+		"tenantId": "e5a37378-5846-41b2-a7b4-90108acb8bef"
+	}
+}
